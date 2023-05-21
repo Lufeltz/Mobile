@@ -28,7 +28,6 @@ const PrivateScreen = ({ handleLogout }) => {
                 <Text style={styles.value}>admin@example.com</Text>
                 <Text style={styles.label}>Phone:</Text>
                 <Text style={styles.value}>123-456-7890</Text>
-                {/* Adicione outras informações do usuário aqui */}
             </View>
             <TouchableOpacity style={styles.button} onPress={handleLogoutPress}>
                 <FontAwesome name="arrow-left" size={20} color="#fff" />
