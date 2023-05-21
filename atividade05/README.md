@@ -15,9 +15,6 @@ Seguindo o exemplo de autenticação por impressão digital, exiba um botão de 
 
 <h2>Tentativa de login com credenciais erradas</h2>
 <img src="./imgs/teste1.jpeg" alt="credenciais erradas">
-
-<h2>Tentativa de login com credenciais erradas</h2>
-<img src="./imgs/teste2.jpeg" alt="erro autenticação">
 <img src="./imgs/credenciais_invalidas.png" alt="credenciais erradas">
 
 <h2>Login com impressão digital</h2>
