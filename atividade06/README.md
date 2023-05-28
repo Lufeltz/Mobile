@@ -2,18 +2,18 @@
 * Crie métodos para gravação de novas entradas e exiba(pode ser no console.log) os registros da base de dados.
 
 <h2>Inicial</h2>
-![Texto alternativo](./imgs/inicial.png)
+<img src="./imgs/inicial.png" alt="Inicial">
 
 <h2>Média</h2>
-![Texto alternativo](./imgs/media.png)
+<img src="./imgs/media.png" alt="Media">
 
-<h2>Salvar</h2>
-![Texto alternativo](./imgs/salvar.png)
+<h2>Salvar Aluno</h2>
+<img src="./imgs/salvar.png" alt="Salvar">
 
 <h2>Registros</h2>
-![Texto alternativo](./imgs/registros.png)
+<img src="./imgs/registros.png" alt="Registros">
 
-<h2>Limpar</h2>
-![Texto alternativo](./imgs/limpar.png)
+<h2>Limpar Tabela</h2>
+<img src="./imgs/limpar.png" alt="Limpar">
 
 
