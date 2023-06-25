@@ -31,7 +31,7 @@ Especificação do TrabalhoPrático 2.
 
 <h2>Admin: edição de campos</h2>
 <img src="./imgs/AdminEdit1.jpeg" alt="Admin edição de campos">
-<img src="./imgs/AdminEdit2.jpeg" alt="Admin edição de campos">
+<img src="./imgs/AdminEdit2.png" alt="Admin edição de campos">
 
 
 <h2>Tela login: user</h2>
@@ -41,14 +41,14 @@ Especificação do TrabalhoPrático 2.
 <img src="./imgs/UserHomeInitial.jpeg" alt="página inicial user">
 
 <h2>Tela inicial: User edição</h2>
-<img src="./imgs/UserHomeInitialEdit.jpeg" alt="página user edição">
+<img src="./imgs/UserHomeInitialEdit.png" alt="página user edição">
 
 <h2>Edição de dados: User</h2>
-<img src="./imgs/UserEdit1.jpeg" alt="user editando dados dos animais">
-<img src="./imgs/UserEdit2.jpeg" alt="user editando dados dos animais">
+<img src="./imgs/UserEdit1.png" alt="user editando dados dos animais">
+<img src="./imgs/UserEdit2.png" alt="user editando dados dos animais">
 
 <h2>Tela Admin: Edição após alteração no User</h2>
-<img src="./imgs/AdminEdit3.jpeg" alt="admin visualizando dados alterados pelo user">
+<img src="./imgs/AdminEdit3.png" alt="admin visualizando dados alterados pelo user">
 
 <h2>Admin Delete</h2>
 <img src="./imgs/AdminDelete.jpeg" alt="Deletando animal">
