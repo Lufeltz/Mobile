@@ -9,6 +9,20 @@ Especificação do TrabalhoPrático 2.
 4 - Você deve tratar erros de conexão com a API, com a base de dados, e do processo de autenticação. Seu código deve estar documentado com as funções e componentes bem definidos e com codificação clara. <br>
 </p>
 
+
+<h2>Tela login</h2>
+<img src="./imgs/inicial.jpeg" alt="página inicial login">
+
+<h2>Credenciais erradas</h2>
+<img src="./imgs/teste2.jpeg" alt="credenciais erradas">
+<img src="./imgs/credenciais_invalidas.png" alt="credenciais erradas">
+
+<h2>Tela login admin com usuário e senha</h2>
+<img src="./imgs/login.jpeg" alt="página inicial login admin com usuário e senha">
+
+<h2>Tela login admin com digital</h2>
+<img src="./imgs/fingerprint.jpg" alt="página inicial login admin com digital">
+
 <h2>Tela inicial Admin</h2>
 <img src="./imgs/AdminHomeInicial.jpeg" alt="página inicial admin">
 
@@ -20,18 +34,21 @@ Especificação do TrabalhoPrático 2.
 <img src="./imgs/AdminEdit2.jpeg" alt="Admin edição de campos">
 
 
+<h2>Tela login user</h2>
+<img src="./imgs/loginUser.jpeg" alt="página inicial user admin">
+
 <h2>Tela inicial User</h2>
 <img src="./imgs/UserHomeInitial.jpeg" alt="página inicial user">
 
 <h2>Tela inicial User edição</h2>
-<img src="./imgs/UserHomeInitialEdit.png" alt="página user edição">
+<img src="./imgs/UserHomeInitialEdit.jpeg" alt="página user edição">
 
 <h2>Edição de dados com o User</h2>
-<img src="./imgs/UserEdit1.png" alt="user editando dados dos animais">
-<img src="./imgs/UserEdit2.png" alt="user editando dados dos animais">
+<img src="./imgs/UserEdit1.jpeg" alt="user editando dados dos animais">
+<img src="./imgs/UserEdit2.jpeg" alt="user editando dados dos animais">
 
 <h2>Tela Admin após alteração no User</h2>
-<img src="./imgs/AdminEdit3.png" alt="admin visualizando dados alterados pelo user">
+<img src="./imgs/AdminEdit3.jpeg" alt="admin visualizando dados alterados pelo user">
 
 <h2>Admin Delete</h2>
-<img src="./imgs/AdminDelete.png" alt="Deletando animal">
+<img src="./imgs/AdminDelete.jpeg" alt="Deletando animal">
