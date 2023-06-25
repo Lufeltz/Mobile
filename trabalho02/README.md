@@ -8,7 +8,11 @@ Especificação do TrabalhoPrático 2.
 3 - Sua aplicação deverá possibilitar as operações básicas CRUD (Create, Read, Update, Delete) onde um usuário terá uma página que exibe as informações na base de dados através de uma lista e possa alterar as informações. O administrador por sua vez poderá criar e deletar um registro, através da API.<br>
 4 - Você deve tratar erros de conexão com a API, com a base de dados, e do processo de autenticação. Seu código deve estar documentado com as funções e componentes bem definidos e com codificação clara. <br>
 </p>
-
+<br>
+<h3>Crendenciais utilizadas</h3>
+<p><h3>user:user</h3>
+<h3>admin:admin</h3></p>
+<br>
 
 <h2>Tela login</h2>
 <img src="./imgs/inicial.jpeg" alt="página inicial login">
