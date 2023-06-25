@@ -17,37 +17,37 @@ Especificação do TrabalhoPrático 2.
 <img src="./imgs/teste2.jpeg" alt="credenciais erradas">
 <img src="./imgs/credenciais_invalidas.png" alt="credenciais erradas">
 
-<h2>Tela login admin com usuário e senha</h2>
+<h2>Tela login: admin com usuário e senha</h2>
 <img src="./imgs/login.jpeg" alt="página inicial login admin com usuário e senha">
 
-<h2>Tela login admin com digital</h2>
+<h2>Tela login: admin com digital</h2>
 <img src="./imgs/fingerprint.jpg" alt="página inicial login admin com digital">
 
-<h2>Tela inicial Admin</h2>
+<h2>Tela inicial: Admin</h2>
 <img src="./imgs/AdminHomeInicial.jpeg" alt="página inicial admin">
 
 <h2>Adicionar animais com o adminstrador</h2>
 <img src="./imgs/AdminHomeAdd.jpeg" alt="Adicionar animais">
 
-<h2>Admin edição de campos</h2>
+<h2>Admin: edição de campos</h2>
 <img src="./imgs/AdminEdit1.jpeg" alt="Admin edição de campos">
 <img src="./imgs/AdminEdit2.jpeg" alt="Admin edição de campos">
 
 
-<h2>Tela login user</h2>
+<h2>Tela login: user</h2>
 <img src="./imgs/loginUser.jpeg" alt="página inicial user admin">
 
-<h2>Tela inicial User</h2>
+<h2>Tela inicial: User</h2>
 <img src="./imgs/UserHomeInitial.jpeg" alt="página inicial user">
 
-<h2>Tela inicial User edição</h2>
+<h2>Tela inicial: User edição</h2>
 <img src="./imgs/UserHomeInitialEdit.jpeg" alt="página user edição">
 
-<h2>Edição de dados com o User</h2>
+<h2>Edição de dados: User</h2>
 <img src="./imgs/UserEdit1.jpeg" alt="user editando dados dos animais">
 <img src="./imgs/UserEdit2.jpeg" alt="user editando dados dos animais">
 
-<h2>Tela Admin após alteração no User</h2>
+<h2>Tela Admin: Edição após alteração no User</h2>
 <img src="./imgs/AdminEdit3.jpeg" alt="admin visualizando dados alterados pelo user">
 
 <h2>Admin Delete</h2>
